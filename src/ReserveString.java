@@ -5,6 +5,7 @@ public class ReserveString {
         System.out.println(s);
         System.out.println(s.reverse());
         System.out.println("Salam Tyncha");
-        
+        System.out.println("Salam Kiyalbek");
+
     }
 }
